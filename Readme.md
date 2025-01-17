@@ -131,3 +131,13 @@ getProperty(1);
 ```
 
 ---
+## Future Enhancements
+- **Metadata Integration**: Add ERC-721 standards to include metadata for properties.
+- **KYC System**: Introduce user verification before registering or transferring properties.
+- **Multi-Signature Transfers**: Enable multi-signature approvals for high-value properties.
+---
+## License
+This project is licensed under the [LGPL-3.0-only](LICENSE).
+---
+## Visual Representation
+A **clear and interactive UI** could be built using frameworks like React.js to interact with this contract for enhanced user experience. For now, enjoy the simplicity and power of **Remix IDE**! 🚀
